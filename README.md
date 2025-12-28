@@ -32,3 +32,5 @@ groups similar days together without requiring labeled data.
 - Unsupervised learning
 - Data visualization
 - ML project structuring
+## Sample Output
+![Project Output](output.png)
